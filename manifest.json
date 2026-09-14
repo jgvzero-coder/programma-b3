@@ -1,0 +1,9 @@
+{
+  "name": "Πρόγραμμα Β3 Γυμνασίου",
+  "short_name": "Πρόγραμμα Β3",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f5f7",
+  "theme_color": "#173b4d",
+  "lang": "el"
+}
